@@ -1,2 +1,0 @@
-# accompanyjn
-test
